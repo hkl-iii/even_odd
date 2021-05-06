@@ -9,7 +9,7 @@ func main() {
 		if n%2 == 0 {
 			fmt.Println("Even")
 		} else {
-			fmt.Println("odd")
+			fmt.Println("Odd")
 		}
 	}
 }
